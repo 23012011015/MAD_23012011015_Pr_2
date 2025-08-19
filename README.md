@@ -33,4 +33,5 @@ This Android application is developed as part of a practical assignment to **dem
 <img width="417" height="928" alt="image" src="https://github.com/user-attachments/assets/7628fa73-be6c-48fc-a7a2-92ac73e61e12" />
 
 
-![Image Alt]()
+<img width="1728" height="510" alt="image" src="https://github.com/user-attachments/assets/c5150540-f9a5-4d04-8df0-df5e7132a9bf" />
+
