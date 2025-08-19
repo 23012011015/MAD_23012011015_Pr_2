@@ -30,5 +30,6 @@ This Android application is developed as part of a practical assignment to **dem
 ---
 
 ## 📂 Project Structure
-![Image Alt]()
+<img width="292" height="500" alt="Screenshot 2025-08-19 100907" src="https://github.com/user-attachments/assets/f77de234-32d3-417f-93db-9e74fadbfca9" />
+
 ![Image Alt]()
